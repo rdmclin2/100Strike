@@ -65,7 +65,7 @@
 //            if (A[row[i]][column[j]] !=B[i][j]) {
 //                return 0;
 //            }
-//            
+//
 //        }
 //    }
 //    return 1;
@@ -80,8 +80,8 @@
 //            }
 //        printf("\n");
 //        }
-//    
-//    
+//
+//
 //    return ;
 //}
 //
@@ -94,11 +94,11 @@
 //
 //int solve(int n){
 //    int i,j,cnt = 0;
-//    
+//
 //    for (i=0; i < n; ++i) {
 //        column[i]=i;
 //    }
-//    
+//
 //    for (i=0; i < n; ++i) {
 //        for (j=0; j<n; ++j) {
 //            if(A[row[0]][column[j]] == B[0][i]){
@@ -109,7 +109,7 @@
 //            }
 //        }
 //    }
-//    
+//
 //    for (i=0; i < n; ++i) {
 //        for (j=0; j<n; ++j) {
 //            if(A[row[j]][column[0]] == B[i][0]){
@@ -149,12 +149,12 @@
 //                scanf("%d",&B[i][j]);
 //            }
 //        }
-//        
+//
 ////        printMap(n);
-//        
-//        
+//
+//
 //        int ans = INF;
-//        
+//
 //        for (i=0; i<n; ++i) {
 //            for (j=0; j<n; ++j) row[j] = j;
 //            for (j=0; j<n; ++j) column[j] = j;
@@ -173,7 +173,7 @@
 //        }else{
 //            printf("%d",ans);
 //        }
-//        
+//
 //    }
 //    return 0;
 //}
