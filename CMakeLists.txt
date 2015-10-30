@@ -8,7 +8,8 @@ set(SOURCE_FILES
     01_hc_mxLovesGame.c
     02_hc_APlusB.c
     03_hc_TrieTree.c
-        04_hc_229.c
-)
+    04_hc_229.c
+        05_hc_MagicBox.c
+        06_hc_KMP.c)
 
 add_executable(Hihocoder ${SOURCE_FILES})
