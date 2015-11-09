@@ -6,6 +6,6 @@
 - ^[#1014 : Trie树](http://hihocoder.com/problemset/problem/1014)
 - ^[#1148 : 2月29日](http://hihocoder.com/problemset/problem/1148)
 - ^[#1135 : Magic Box](http://hihocoder.com/problemset/problem/1135)
--  [#1015 : KMP算法](http://hihocoder.com/problemset/problem/1015)
-
+- ^[#1015 : KMP算法](http://hihocoder.com/problemset/problem/1015)
+- ^[#1038 : 01背包](http://hihocoder.com/problemset/problem/1038)
 
