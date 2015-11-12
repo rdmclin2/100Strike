@@ -9,6 +9,14 @@ void swap(int * x, int * y){
     *y = temp;
 }
 
+int max (int a, int b){
+    return a > b?a : b;
+}
+
+int min(int a,int b){
+    return a < b?a : b;
+}
+
 int main(){
 
     return 0;
