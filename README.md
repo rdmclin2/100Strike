@@ -8,4 +8,5 @@
 - ^[#1135 : Magic Box](http://hihocoder.com/problemset/problem/1135)
 - ^[#1015 : KMP算法](http://hihocoder.com/problemset/problem/1015)
 - ^[#1038 : 01背包](http://hihocoder.com/problemset/problem/1038)
-
+- ^[#1032 : 最长回文子串](http://hihocoder.com/problemset/problem/1032)
+- ^[#1037 : 数字三角形](http://hihocoder.com/problemset/problem/1037)
