@@ -10,6 +10,6 @@ set(SOURCE_FILES
     03_hc_TrieTree.c
     04_hc_229.c
         05_hc_MagicBox.c
-        06_hc_KMP.c 07_hc_01pack.c 08_hc_longestPalindromeSubstring.c  09_hc_tringle.c)
+        06_hc_KMP.c 07_hc_01pack.c 08_hc_longestPalindromeSubstring.c  09_hc_tringle.c 10_hc_1051.c)
 
 add_executable(Hihocoder ${SOURCE_FILES})
