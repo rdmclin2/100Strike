@@ -12,3 +12,4 @@
 - ^[#1037 : 数字三角形](http://hihocoder.com/problemset/problem/1037)
 - ^[#1051 : 补提交卡](http://hihocoder.com/problemset/problem/1051?sid=623020)
 - ^[#1039 : 字符消除](http://hihocoder.com/problemset/problem/1039)
+- ^[#1234 : Fractal](http://hihocoder.com/problemset/problem/1234)
