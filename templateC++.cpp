@@ -1,7 +1,5 @@
 //
 // Created by Calvin on 15/11/19.
-//
-
 #include<iostream>
 #include<cstdio>
 #include<cmath>
@@ -14,3 +12,4 @@ int main(){
 
     return 0;
 }
+
