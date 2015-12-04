@@ -7,6 +7,8 @@
 #include<algorithm>
 #include<cstring>
 #include<set>
+#include<queue>
+#include<list>
 using namespace std;
 
 #define mxn 1000
