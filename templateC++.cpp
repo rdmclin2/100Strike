@@ -10,6 +10,7 @@
 #include<queue>
 #include<list>
 #include<map>
+#include <vector>
 using namespace std;
 
 #define mxn 1000
